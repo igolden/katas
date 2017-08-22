@@ -41,11 +41,32 @@ API Katas:
   * Build a simple hello world API and check its health
   * Build a simple user social-network structure
   * Build a financial data structure
+  * Setup Mailers
+  * Setup multi-step forms
+  * Setup custom token authentication
+  * Setup file uploads
+  * Webhook receiver app
+---
+
+Frontend Client (Consumers):
+
+  * Calculator App
+  * Consume an api and sort in the table
+  * Post and update a persisted table list
 
 ---
 
 Database/SQL Katas:
 
   * Query
+  * Redis setup
+  * Memcached setup
+  * Elasticache setup
 
 ---
+
+Pentest Katas
+
+---
+
+
